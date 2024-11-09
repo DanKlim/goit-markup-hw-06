@@ -993,8 +993,8 @@ img {
     fill: #f4f4fd;
 }
 
-.footer-social-icons:hover,
-.footer-social-icons:focus {
+.footer-social-link:hover,
+.footer-social-link:focus {
     background-color: #31d0aa;
 }
 
@@ -1115,7 +1115,7 @@ img {
         gap: unset;
     }
 
-    .footer-container {
+    .footer-logo-container {
         margin-right: 120px;
     }
 
